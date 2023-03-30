@@ -1,5 +1,20 @@
 <h1> Documentación </h1> 
 <br>
+DESCRIPCIÓN
+<br>
+Una página web donde los dueños de una empresa puedan llevar registro de sus cotizaciones y pedidos realizados por sus clientes, guardando los datos requeridos para llevar un mejor control.
+<br>
+<br>
+REQUERIMIENTOS:
+<br>
+  1. CRUD de pedidos
+  <br>
+  2. CRUD de cotizaciones
+  <br>
+  3. CRUD de usuarios 
+  <br>
+<br>
+<br>
 DIAGRAMA DE ENTIDAD RELACIÓN
  <img width="1000" alt="diagrama" src="https://user-images.githubusercontent.com/59983672/228640861-5736a79b-d7b6-487e-b746-60b7d80425fd.PNG">
 <br>
