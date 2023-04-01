@@ -7,11 +7,11 @@ Una página web donde los dueños de una empresa puedan llevar registro de sus c
 <br>
 REQUERIMIENTOS:
 <br>
-  1. CRUD de pedidos
+  1. CRUD de pedidos: Existe una sección donde se ingresaran los campos que son requeridos al momento de solicitar un pedido de bolsas, en estos solo se guardará el detalle del pedido y el número de orden (el cliente) a la que pertenecen.
   <br>
-  2. CRUD de cotizaciones
+  2. CRUD de cotizaciones: En esta sección se coloca la información del cliente y la fecha del pedido. 
   <br>
-  3. CRUD de usuarios 
+  3. CRUD de usuarios: En esta sección se encuentra la información de los usuarios, en donde tienen la posibilidad de tener 2 roles, una es vendedor y la otra es administrador. 
   <br>
 <br>
 <br>
